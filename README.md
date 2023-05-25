@@ -1,5 +1,7 @@
 # store-management-django
 
+# My first GitHub Repo!
+
 ## Installation
 
 Install my-project with npm
